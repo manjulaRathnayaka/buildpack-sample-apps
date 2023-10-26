@@ -15,10 +15,10 @@ GEM
     tilt (2.3.0)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   sinatra (~> 2.2)
 
 BUNDLED WITH
-   1.17.2
+   2.3.7
